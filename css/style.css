@@ -3,7 +3,8 @@ body {
 	background-image: url(http://www.twitrcovers.com/wp-content/uploads/2012/10/Flowers-Grass-l.jpg);
 	background-size:100%;
 	background-repeat: no-repeat;
-	
+	flex-wrap: nowrap;
+
 }
 .intro img{
 	border:double;
